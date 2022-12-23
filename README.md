@@ -1,5 +1,5 @@
 # NodeJs_Project_Sequelize
-A NodeJS Project using SQL and Sequelize.
+A NodeJS Project using Express, EJS, SQL and Sequelize.
 -----------------------------------------
 INTRO:
 -----------------------------------------
